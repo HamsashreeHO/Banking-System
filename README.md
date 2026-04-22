@@ -1,6 +1,6 @@
 # Banking System in C++
 
-A simple console-based Banking Management System developed in C++ using Object-Oriented Programming concepts and file handling.
+A Banking Management System developed in C++ using Object-Oriented Programming concepts and file handling.
 
 ## Features
 
@@ -35,8 +35,10 @@ g++ banking_system.cpp -o bank.exe
 ./bank.exe
 ```
 ## Project Structure
+```text
 Banking_System/
 └── banking_system.cpp
+```
 
 ## Learning Outcomes
 -Classes and Objects
